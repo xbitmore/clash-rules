@@ -129,6 +129,7 @@ payload:
   - DOMAIN-SUFFIX,miwifi.com
   - DOMAIN-SUFFIX,xiaomi.com
   - DOMAIN-SUFFIX,xiaomi.net
+  - DOMAIN-SUFFIX,xiaomimimo.com
   # > Microsoft
   # - DOMAIN-SUFFIX,microsoft.com
   # - DOMAIN-SUFFIX,msecnd.net
